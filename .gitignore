@@ -7,3 +7,5 @@ out
 mc-hc_rel
 *.zip
 rel
+
+*.*~

@@ -35,7 +35,7 @@ class Main {
         if(isLinux())
             relativePathToJNotify += "linux_64/";
         if(isWindows())
-            relativePathToJNotify += "jnotify_64bit.dll";
+            relativePathToJNotify += "";
 
 
         System.setProperty("java.library.path", relativePathToJNotify);
