@@ -4,3 +4,6 @@ bin
 out
 *.jar
 *.iml
+mc-hc_rel
+*.zip
+rel
